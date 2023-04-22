@@ -14,9 +14,6 @@ CQA website like Quora or Stackoverflow. Users can sign in. Ask Questions, answe
 
 ## Running the code
 
-
-    - Run as:
-
 ### client side (PORT 3000)
     $ cd frontend
     $ npm install
