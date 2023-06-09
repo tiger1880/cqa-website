@@ -26,6 +26,7 @@ CQA website like Quora or Stackoverflow. Users can sign in. Ask Questions, answe
 
 
 ### postgresql database server runs on PORT 5432
+To set up the database, download the software engineering dataset from [Stackexchange Datadump](https://archive.org/download/stackexchange). To convert the xml data to csv follow [this tutorial](https://github.com/SkobelevIgor/stackexchange-xml-converter). 
    
 ## Authors
 
