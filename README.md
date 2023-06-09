@@ -30,7 +30,7 @@ CQA website like Quora or Stackoverflow. Users can sign in. Ask Questions, answe
 To set up the database, download the software engineering dataset from [Stackexchange Datadump](https://archive.org/download/stackexchange). To convert the xml data to csv follow [this tutorial](https://github.com/SkobelevIgor/stackexchange-xml-converter). 
 For inserting the data into the database (Commands for postgreSQL)
 ```SQL
-mydb=> \i script.sql   -- replace the paths first in script.sql 
+mydb=> \i script.sql   -- replace the paths first in script.sql in schema folder
 ```
    
 ## Authors
