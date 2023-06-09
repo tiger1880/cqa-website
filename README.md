@@ -30,7 +30,7 @@ To set up the database, download the software engineering dataset from [Stackexc
    
 ## Authors
 
-- Nitya Seshagiri Bhamidipaty - CS21BTECH11041
-- Muskan Jaiswal - CS21BTECH11037
-- Deepshikha - CS21BTECH11016
-- Tejal Kulkarni - CS21BTECH11058
+- Nitya Seshagiri Bhamidipaty
+- Muskan Jaiswal 
+- Deepshikha 
+- Tejal Kulkarni 
